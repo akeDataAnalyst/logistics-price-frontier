@@ -1,5 +1,5 @@
 # Supply Chain Transparency & Price Transmission Model
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://logistics-price-frontier-dy3caxajhgs4srapkrn2o4.streamlit.app/)
 
 **Subtitle:** Quantifying the "Value Leak" in the Ethiopian Coffee Frontier
 
