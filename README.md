@@ -4,12 +4,12 @@
 **Subtitle:** Quantifying the "Value Leak" in the Ethiopian Coffee Frontier
 
 ## Project Description
-This repository contains a **Supply Chain Forensic Engine** designed to identify structural "value leaks" in the Ethiopian coffee export corridor. In the current economic climate of 2026, smallholder farmers often capture less than 50% of the export value. This project uses Graph Theory and Monte Carlo simulations to model the "invisible" logistics costs and information asymmetries that keep farmgate prices suppressed, even when global benchmarks surge.
+This repository contains a Supply Chain Forensic Engine designed to identify structural "value leaks" in the Ethiopian coffee export corridor. In the current economic climate of 2026, smallholder farmers often capture less than 50% of the export value. This project uses Graph Theory and Monte Carlo simulations to model the "invisible" logistics costs and information asymmetries that keep farmgate prices suppressed, even when global benchmarks surge.
 
 ## The Problem: "The Invisible Leak"
 In the Ethiopian coffee chain, value is extracted at every node (Collector, Union, Exporter). 
 - **Price Asymmetry:** When the New York C-Market rises, the "transmission" to the farmgate is slow and inefficient.
-- **First-Mile Friction:** Rural logistics segments (e.g., Gera to Telila) exhibit costs per kilometer up to **6x higher** than international shipping segments.
+- **First-Mile Friction:** Rural logistics segments (e.g., Gera to Telila) exhibit costs per kilometer up to 6x higher than international shipping segments.
 - **Structural Bottlenecks:** Centralized warehouses create single points of failure where delays lead to quality degradation and financial loss.
 
 ## The Solution: A Logistics Frontier Pipeline
