@@ -1,4 +1,6 @@
 # Supply Chain Transparency & Price Transmission Model
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+
 **Subtitle:** Quantifying the "Value Leak" in the Ethiopian Coffee Frontier
 
 ## Project Description
